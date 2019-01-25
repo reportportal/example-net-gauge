@@ -16,6 +16,10 @@ tags: single word
 
 * The word "gauge" has "3" vowels.
 
+## Vowel counts in single word should fail
+
+* The word "gauge" has "5" vowels.
+
 ## Vowel counts in multiple word
 
 This is the second scenario in this specification
