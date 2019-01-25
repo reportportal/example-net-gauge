@@ -24,7 +24,6 @@ namespace Example.Gauge
         [Step("The word <word> has <expectedCount> vowels.")]
         public void VerifyVowelsCountInWord(string word, int expectedCount)
         {
-            System.Threading.Thread.Sleep(1000);
             var actualCount = CountVowels(word);
             actualCount.Should().Be(expectedCount);
         }
