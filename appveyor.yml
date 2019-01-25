@@ -1,0 +1,7 @@
+﻿image: Visual Studio 2017
+
+install:
+  - npm install -g @getgauge/cli
+
+build_script:
+  - gauge run
