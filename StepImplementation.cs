@@ -5,7 +5,7 @@ using FluentAssertions;
 using Gauge.CSharp.Lib;
 using Gauge.CSharp.Lib.Attribute;
 
-namespace Example.Gauge
+namespace gauge
 {
     public class StepImplementation
     {

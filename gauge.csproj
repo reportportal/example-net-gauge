@@ -8,8 +8,8 @@
     <ProjectGuid>{013FCCDC-FF28-4B30-A8A9-700D9ACC3C41}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Example.Gauge</RootNamespace>
-    <AssemblyName>Example.Gauge</AssemblyName>
+    <RootNamespace>gauge</RootNamespace>
+    <AssemblyName>gauge</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
