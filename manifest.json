@@ -1,0 +1,8 @@
+{
+  "Language": "csharp",
+  "Plugins": [
+    "json-report",
+    "html-report",
+    "reportportal"
+  ]
+}
