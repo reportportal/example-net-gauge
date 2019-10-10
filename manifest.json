@@ -1,7 +1,6 @@
 {
   "Language": "dotnet",
   "Plugins": [
-    "json-report",
     "html-report",
     "reportportal"
   ]
