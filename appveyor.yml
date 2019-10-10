@@ -1,6 +1,5 @@
 ﻿image:
   - Visual Studio 2017
-  - Ubuntu1804
 
 install:
   - npm install -g @getgauge/cli
